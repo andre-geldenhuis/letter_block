@@ -14,6 +14,6 @@ Install this handy inkscape plugin: https://en.wikibooks.org/wiki/OpenSCAD_User_
   * press F5 to compile -> you should see the letter with a magenta block
   * Export as STL for 3D printing
 
-NOTE: Don't resize the inkscape page!  Inscapes internal ccordinates are different fromt the page coordinates and doing so will make 
+NOTE: Don't resize the inkscape page!  Inscapes internal coordinates are different fromt the page coordinates and doing so will make 
 everything horrible. 
 
